@@ -1,0 +1,5 @@
+E:\算法实验\Hanoi\Hanoi\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\算法实验\Hanoi\Hanoi\bin\Debug\Hanoi.exe
+E:\算法实验\Hanoi\Hanoi\bin\Debug\Hanoi.pdb
+E:\算法实验\Hanoi\Hanoi\obj\x86\Debug\Hanoi.exe
+E:\算法实验\Hanoi\Hanoi\obj\x86\Debug\Hanoi.pdb

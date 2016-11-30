@@ -1,0 +1,5 @@
+E:\算法实验\QuickSort\QuickSort\bin\Debug\QuickSort.exe
+E:\算法实验\QuickSort\QuickSort\bin\Debug\QuickSort.pdb
+E:\算法实验\QuickSort\QuickSort\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\算法实验\QuickSort\QuickSort\obj\x86\Debug\QuickSort.exe
+E:\算法实验\QuickSort\QuickSort\obj\x86\Debug\QuickSort.pdb
