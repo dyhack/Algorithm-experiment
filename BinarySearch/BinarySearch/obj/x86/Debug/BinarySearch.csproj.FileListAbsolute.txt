@@ -3,3 +3,7 @@ E:\算法实验\BinarySearch\BinarySearch\bin\Debug\BinarySearch.pdb
 E:\算法实验\BinarySearch\BinarySearch\obj\x86\Debug\ResolveAssemblyReference.cache
 E:\算法实验\BinarySearch\BinarySearch\obj\x86\Debug\BinarySearch.exe
 E:\算法实验\BinarySearch\BinarySearch\obj\x86\Debug\BinarySearch.pdb
+E:\大学\大三上\算法实验\BinarySearch\BinarySearch\obj\x86\Debug\BinarySearch.exe
+E:\大学\大三上\算法实验\BinarySearch\BinarySearch\obj\x86\Debug\BinarySearch.pdb
+E:\大学\大三上\算法实验\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe
+E:\大学\大三上\算法实验\BinarySearch\BinarySearch\bin\Debug\BinarySearch.pdb

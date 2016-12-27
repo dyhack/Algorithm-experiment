@@ -1,0 +1,4 @@
+E:\大学\大三上\算法实验\01backpack\01backpack\bin\Debug\01backpack.exe
+E:\大学\大三上\算法实验\01backpack\01backpack\bin\Debug\01backpack.pdb
+E:\大学\大三上\算法实验\01backpack\01backpack\obj\x86\Debug\01backpack.exe
+E:\大学\大三上\算法实验\01backpack\01backpack\obj\x86\Debug\01backpack.pdb

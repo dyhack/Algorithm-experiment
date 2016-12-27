@@ -1,0 +1,4 @@
+E:\大学\大三上\算法实验\Huffman\Huffman\bin\Debug\Huffman.exe
+E:\大学\大三上\算法实验\Huffman\Huffman\bin\Debug\Huffman.pdb
+E:\大学\大三上\算法实验\Huffman\Huffman\obj\x86\Debug\Huffman.exe
+E:\大学\大三上\算法实验\Huffman\Huffman\obj\x86\Debug\Huffman.pdb
